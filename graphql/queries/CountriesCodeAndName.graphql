@@ -1,0 +1,6 @@
+query CountriesCodeAndNameData {
+  countries {
+    code
+    name
+  }
+}
